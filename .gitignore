@@ -1,0 +1,30 @@
+# Node.js
+idea/
+node_modules/
+dist/
+build/
+
+# 환경 변수 파일
+.env
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.idea/
+.vscode/
+.node_modules/
+
+# Svelte
+chat/client/svelte-chat/node_modules/
